@@ -9,4 +9,4 @@
 
 
 [![Top Langs](https://github-readme-stats-tawny-phi-47.vercel.app/api/top-langs/?username=baihliu&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true)
+[![GitHub stats](https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
