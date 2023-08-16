@@ -7,6 +7,9 @@
 - 💬 Ask me about anything interesting, but in most cases I don't know
 - 📫 defenderink826@gmail.com
 
-
-[![Top Langs](https://github-readme-stats-rose-three-81.vercel.app/api/top-langs/?username=baihliu&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats-rose-three-81.vercel.app/api/top-langs/?username=baihliu&layout=compact&hide=html">
+  <img height=200 align="center" src="https://github-readme-stats-rose-three-81.vercel.app/api/top-langs/?username=baihliu&layout=compact&hide=html" />
+</a>
+<a href="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true&langs_count=8&card_width=320" />
+</a>
