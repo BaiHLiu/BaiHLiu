@@ -13,3 +13,6 @@
 <a href="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true">
   <img height=200 align="center" src="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true&langs_count=8&card_width=320" />
 </a>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
