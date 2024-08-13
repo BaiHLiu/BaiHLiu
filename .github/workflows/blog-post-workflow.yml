@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.catop.top/rss.xml"
-          template: "| $date | <a href='$url' target='_blank'>$title</a> |"
+          template: "| $date | <a href='$url' target='_blank'>$title</a> |\n"
