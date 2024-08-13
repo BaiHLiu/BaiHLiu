@@ -32,7 +32,9 @@
 
 </table>
 
+---
 
 <img height=200 align="left" src="https://github-readme-stats-rose-three-81.vercel.app/api/top-langs/?username=baihliu&layout=compact&hide=html&exclude_repo=github-readme-stats,statistics,ChatGPT-Next-Web&show_icons=true&hide_border=true&card_width=250" />
 
-<img height=200 align="right" src="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true&show_icons=true&langs_count=8&card_width=250" />
+<img height=200 align="right" src="https://github-readme-stats-rose-three-81.vercel.app/api?username=baihliu&count_private=true&show_icons=true&hide_border=true&langs_count=8&card_width=250" />
+
