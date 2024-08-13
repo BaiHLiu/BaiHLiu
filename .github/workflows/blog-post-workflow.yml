@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.catop.top/rss.xml"
-          template: "<tr><td>$date</td><td>$categories</td><td><a href='$url' target='_blank'>$title</a></td></tr>"
+          template: "<tr><td>$date</td><td><a href='$url' target='_blank'>$title</a></td></tr>"
+          date_format: "yyyy-mm-dd"
