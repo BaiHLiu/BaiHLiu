@@ -4,7 +4,8 @@
 <p align="center">
   <samp>
     <a href="https://www.catop.top/">blog</a> ∙
-    <a href="https://github.com/BaiHLiu">github</a> 
+    <a href="https://github.com/BaiHLiu">github</a> ∙
+    <a href="https://photography.catop.top:14433">Photography</a>
   </samp>
 </p>
 
