@@ -22,7 +22,7 @@
 - 📫 You can reach me at [defenderink826@gmail.com](mailto:defenderink826@gmail.com).
 - 🎨 My interests are pretty diverse, although I'd like to make a contribution in one specific area.
 
-- 😆 Hobbies: photography, cycling, traveling, aviation, homelab.
+- 😆 Hobbies: photography (album [>here](https://photography.catop.top:14433)) , cycling, traveling, aviation, homelab.
 - 🎥 Favorite Channels: caravanning, camping, mountain hiking, aviation (traveling or piloting), technology, etc.
 
 <!-- markdownlint-restore -->
