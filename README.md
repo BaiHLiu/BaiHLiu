@@ -4,8 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://www.catop.top/">blog</a> ∙
-    <a href="https://github.com/BaiHLiu">github</a> ∙
-    <a href="https://photography.catop.top:14433">Photography</a>
+    <a href="https://github.com/BaiHLiu">github</a>
   </samp>
 </p>
 
@@ -22,8 +21,8 @@
 - 📫 You can reach me at [defenderink826@gmail.com](mailto:defenderink826@gmail.com).
 - 🎨 My interests are pretty diverse, although I'd like to make a contribution in one specific area.
 
-- 😆 Hobbies: photography (album [>here](https://photography.catop.top:14433)) , cycling, traveling, aviation, homelab.
-- 🎥 Favorite Channels: caravanning, camping, mountain hiking, aviation (traveling or piloting), technology, etc.
+- 😆 Hobbies: photography, cycling, traveling, aviation, homelab.
+- 🎥 Favorite Channels: caravanning, camping, mountain hiking, aviation, technology, etc.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
