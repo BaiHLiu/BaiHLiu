@@ -16,6 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.catop.top/rss.xml"
+          feed_list: "https://www.catop.top/atom.xml"
           template: "<tr><td>$date</td><td><a href='$url' target='_blank'>$title</a></td></tr>"
           date_format: "yyyy-mm-dd"
