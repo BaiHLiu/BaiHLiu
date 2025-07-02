@@ -33,7 +33,7 @@
 **🤹‍♀️ <a href="https://www.catop.top/" target="_blank">Recent Blog</a>**
 <table width="100%" align="left" style="margin: 0;">
   
-<!-- BLOG-POST-LIST:START --><tr><td>2025-06-23</td><td><a href='https://www.catop.top/2025/06/23/slot-reading-report/' target='_blank'>论文阅读 - Slot: 基于图强化学习的溯源图APT检测</a></td></tr><tr><td>2025-06-08</td><td><a href='https://www.catop.top/2025/06/08/MAGIC-reading-report/' target='_blank'>论文阅读 - MAGIC: 通过掩码图表示学习进行APT检测</a></td></tr><tr><td>2025-05-24</td><td><a href='https://www.catop.top/2025/05/24/course-grandfather-teacher-exp-2/' target='_blank'>Snort3 编译安装与配置</a></td></tr><tr><td>2025-05-13</td><td><a href='https://www.catop.top/2025/05/13/kaiors-read-and-reproduce/' target='_blank'>Kairos简单阅读和复现</a></td></tr><tr><td>2025-03-16</td><td><a href='https://www.catop.top/2025/03/16/are-we-meet-before/' target='_blank'>记一次环球影城游览相遇游客的人脸识别及时序分析</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>2025-07-02</td><td><a href='https://www.catop.top/2025/07/02/toy-net-analyser/' target='_blank'>UCAS《网络攻防基础》作业：分布式网络抓包和安全分析系统</a></td></tr><tr><td>2025-06-23</td><td><a href='https://www.catop.top/2025/06/23/slot-reading-report/' target='_blank'>论文阅读 - Slot: 基于图强化学习的溯源图APT检测</a></td></tr><tr><td>2025-06-08</td><td><a href='https://www.catop.top/2025/06/08/MAGIC-reading-report/' target='_blank'>论文阅读 - MAGIC: 通过掩码图表示学习进行APT检测</a></td></tr><tr><td>2025-05-24</td><td><a href='https://www.catop.top/2025/05/24/course-grandfather-teacher-exp-2/' target='_blank'>Snort3 编译安装与配置</a></td></tr><tr><td>2025-05-13</td><td><a href='https://www.catop.top/2025/05/13/kaiors-read-and-reproduce/' target='_blank'>Kairos简单阅读和复现</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
